@@ -1,3 +1,3 @@
-Payment feature added in feature branch
-Feature branch edit
-Feature branch done
+Payment feature added in main branch
+Main branch edit
+Main branch done
